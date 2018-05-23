@@ -1,7 +1,7 @@
 '''
 Created on Oct 12, 2017
 '''
-##### some change
+###Inserted some data
 import numpy as np
 from pathlib import Path
 from sklearn.linear_model import LinearRegression
